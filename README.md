@@ -1,4 +1,4 @@
-# Clone TINDER
+# Clone página  do "TINDER"
 
 ![in Development](https://img.shields.io/badge/Project%20-%20Orientado-green) 
 
